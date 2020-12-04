@@ -1,2 +1,2 @@
 # password-generator
-Generate random password
+Generate random password using Python
